@@ -12,7 +12,7 @@
     drac-red: #ff5555;
     drac-yel: #f1fa8c;
 
-    font: "Jetbrains Mono 12";
+    font: "monospace 12";
 
     foreground: @drac-fgd;
     background-color: @drac-bgd;
